@@ -8,7 +8,7 @@
    * ## To run The K-Space function on an image:
 		* ## Run "kspace.py" file
 			* ### Passing one more argument: -Path of the Image.
-		![Zero Position](Screenshots/TerminalKspace.png)
+		(Screenshots/TerminalKspace.png)
    
     		
 		* ## you will get result like this:
